@@ -9,5 +9,7 @@ One device is "working" but not 100% finished. Still many bugs to be worked out,
 
 # Special thanks!
 Ubuntu Touch team
+
 Halium porting team
+
 Whoever else I may be forgetting.
