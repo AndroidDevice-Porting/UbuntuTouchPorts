@@ -8,6 +8,6 @@ Currently, there are none that are finished, but the device that is currently be
 One device is "working" but not 100% finished. Still many bugs to be worked out, but it might not be finished for a long time.
 
 # Special thanks!
-## Ubuntu Touch team
-## Halium porting team
-## Whoever else I may be forgetting.
+Ubuntu Touch team
+Halium porting team
+Whoever else I may be forgetting.
